@@ -1,0 +1,17 @@
+main {
+    display: flex;
+}
+#orange {
+    flex: 3 auto;
+}
+#yellow {
+    flex: 1 auto;
+    order: -1;
+}
+#red {
+    flex: 1 auto;
+    order: -1;
+}
+#green {
+    flex: 1 auto;
+}
